@@ -1,40 +1,38 @@
-````markdown
 <div align="center">
 
 # 👾 LUYZ
 
 ### Software Engineering Student · Developer
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SEU_USUARIO)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/Phellype7)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](SEU_LINK_DO_LINKEDIN)
 
 </div>
 
 ---
 
-## 🧑‍💻 About Me
+# 👨‍💻 About Me
 
 ```text
 > Initializing profile...
 
-Name       : Luyz Phellype
-Field      : Software Engineering
-Focus      : Development & Cyber Security
-Country    : Brazil
-Status     : Learning and building
-Goal       : Improve every day
-````
+Name      : Luyz Phellype
+Field     : Software Engineering
+Focus     : Development & Cyber Security
+Country   : Brazil
+Status    : Learning and building
+Goal      : Improve every day
+```
 
 I'm a **Software Engineering student** currently starting my journey in programming.
 
-I'm mainly studying **Python**, while also learning web development technologies
-and the fundamentals of **Cyber Security**.
+I'm mainly studying **Python**, while also learning web development technologies and the fundamentals of **Cyber Security**.
 
 I enjoy learning by building projects and putting what I study into practice.
 
 ---
 
-## 🚀 Technologies
+# 🚀 Technologies
 
 ### Languages
 
@@ -56,7 +54,7 @@ I enjoy learning by building projects and putting what I study into practice.
 
 ---
 
-## 🔐 Cyber Security
+# 🔐 Cyber Security
 
 I'm currently starting my journey into **Cyber Security**, with an interest in:
 
@@ -64,98 +62,76 @@ I'm currently starting my journey into **Cyber Security**, with an interest in:
 * 🌐 Networking
 * 🔒 Application Security
 * 🕵️ Penetration Testing
-* 📡 Traffic Analysis
+* 🐈 Traffic Analysis
 * 🛡️ Web Security
 
 > My goal is to understand how systems work before learning how to protect them.
 
 ---
 
-## 📚 Currently Learning
+# 📚 Currently Learning
 
 ```text
-[████████████████░░░░] Python
-[██████████░░░░░░░░░░] Java
-[████████░░░░░░░░░░░░] JavaScript
-[██████████░░░░░░░░░░] HTML / CSS
+[██████████████████░░] Python
+[████████████░░░░░░░░] Java
+[██████████░░░░░░░░░░] JavaScript
+[████████░░░░░░░░░░░░] HTML / CSS
 [██████░░░░░░░░░░░░░░] Cyber Security
 [██████░░░░░░░░░░░░░░] Linux
 ```
 
 ---
 
-## 🛠️ Projects
+# 🛠️ Projects
 
-### 🐍 Python Studies
+### 🐍 Python Projects
 
-Projects and exercises developed while learning Python.
+Small projects and exercises created while learning Python.
 
-**Topics:**
-
-* Conditional statements
-* Loops
-* Functions
-* Lists and tuples
-* File handling
-* Error handling
-* Small projects
-
-🔗 [View projects](https://github.com/SEU_USUARIO)
-
----
+* 🔢 Algorithms & logic exercises
+* 🗳️ Voting system
+* 🏧 ATM simulation
+* 🔍 Search algorithms
+* 🎮 Mini games
 
 ### 🌐 Web Projects
 
-Projects created to practice **HTML and CSS**, along with my first steps
-into JavaScript.
+Projects created while learning HTML, CSS and JavaScript.
 
-🔗 [View projects](https://github.com/SEU_USUARIO)
+* 🌎 Personal websites
+* 🖥️ Web interfaces
+* ⚡ Interactive pages
 
 ---
 
-## 📊 GitHub
+# 🎯 Goals
+
+* 💻 Become a better developer
+* 🐍 Master Python
+* 🌐 Improve my web development skills
+* 🔐 Build a strong foundation in Cyber Security
+* 🐧 Become comfortable with Linux
+* 🧠 Learn how systems work under the hood
+* 🚀 Build bigger and better projects
+
+---
+
+# 📊 GitHub Stats
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO\&show_icons=true\&theme=tokyonight\&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Phellype7\&show_icons=true\&theme=tokyonight\&hide_border=true)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=SEU_USUARIO\&theme=tokyonight\&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Phellype7\&layout=compact\&theme=tokyonight\&hide_border=true)
 
 </div>
 
 ---
 
-## 🎯 Goals
-
-```text
-☑ Learn programming
-☑ Build my first projects
-☐ Improve my Python skills
-☐ Learn more about Web Development
-☐ Learn Cyber Security
-☐ Get my first internship
-☐ Build better and more complex projects
-```
-
----
-
-## ⚡ A Little More About Me
-
-🎮 I enjoy gaming
-💻 I like technology
-🐍 Currently focused on Python
-🔐 Interested in Cyber Security
-📚 Always trying to learn something new
-
----
-
 <div align="center">
 
-### 💡 "I don't need to know everything. I just need to keep learning."
+### 💡 Learning. Building. Improving.
 
-<br>
-
-![Profile Views](https://komarev.com/ghpvc/?username=SEU_USUARIO\&color=blueviolet\&style=for-the-badge)
+**Thanks for visiting my profile! 🚀**
 
 </div>
-```
