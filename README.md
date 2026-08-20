@@ -21,11 +21,20 @@
 ║  > PROFILE INITIALIZED                                   ║
 ║  > USER: Luyz Phellype                                   ║
 ║  > ROLE: Software Engineering Student                    ║
-║  > FOCUS: Programming · Cybersecurity                    ║
+║  > LOCATION: Brazil                                      ║
+║  > FOCUS: Programming                                    ║
 ╚══════════════════════════════════════════════════════════╝
-```
+````
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+---
+
+## `⬡ ABOUT ME`
+
+Software Engineering student focused on programming, problem solving and building practical projects.
+
+Currently developing my skills with Python and exploring different areas of technology.
 
 ---
 
@@ -34,10 +43,9 @@
 **Programming**
 
 ![Python](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![Java](https://img.shields.io/badge/JAVA-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=html5\&logoColor=white)
 
 **Tools**
 
@@ -46,12 +54,19 @@
 ![VS Code](https://img.shields.io/badge/VS_CODE-007ACC?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/PYCHARM-000000?style=for-the-badge\&logo=pycharm\&logoColor=white)
 
-**Cybersecurity**
+---
 
-![Linux](https://img.shields.io/badge/LINUX-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
-![Kali Linux](https://img.shields.io/badge/KALI_LINUX-557C94?style=for-the-badge\&logo=kalilinux\&logoColor=white)
-![Wireshark](https://img.shields.io/badge/WIRESHARK-1679A7?style=for-the-badge\&logo=wireshark\&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/BURP_SUITE-FF6633?style=for-the-badge\&logo=burpsuite\&logoColor=white)
+## `⬡ CURRENTLY LEARNING`
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
+![Algorithms](https://img.shields.io/badge/Algorithms-8A2BE2?style=flat-square)
+![Web Development](https://img.shields.io/badge/Web%20Development-8A2BE2?style=flat-square)
+![Software Engineering](https://img.shields.io/badge/Software%20Engineering-8A2BE2?style=flat-square)
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-8A2BE2?style=flat-square)
+
+</div>
 
 ---
 
@@ -70,5 +85,9 @@
 ║                                            ║
 ╚════════════════════════════════════════════╝
 ```
+
+<br>
+
+![Profile Views](https://komarev.com/ghpvc/?username=Phellype7\&color=8A2BE2\&style=flat-square\&label=PROFILE+VIEWS)
 
 </div>
